@@ -1,0 +1,41 @@
+body{
+    background-color:  hsl(212, 45%, 89%);
+    text-align: center;
+    position: absolute;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+div{
+    width : 29%;
+    height : 400px;
+    position : relative;
+    margin : auto;
+    left : 130px;
+    top : 100px;
+    background-color: white;
+    margin-left: 400px;
+    border-radius: 20px;
+}
+
+img{
+    width : 230px;
+    height : 220px;
+    padding : 10px;
+    border-radius: 25px;
+}
+
+h4{
+    font-size: 1.2rem;
+    margin :  10px;
+    color : #40514E;
+    margin-top: 5px;
+}
+
+p{
+    font-size: 0.8rem;
+    width: 80%;
+    margin:auto ;
+    padding-top: 10px;
+    color : lightgray;
+}
